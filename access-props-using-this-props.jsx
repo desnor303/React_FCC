@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
         <div>
             { /* Change code below this line */ }
-            <Welcome name = "Hello World!"/>
+            <Welcome name="string"/>
             { /* Change code above this line */ }
         </div>
     );

@@ -17,7 +17,7 @@ class MyComponent extends React.Component {
     return (
       <div>
         { /* Change code below this line */ }
-        <button onClick = {this.handleClick}>Click Me</button>
+        <button onClick={this.handleClick}>Click Me</button>
         { /* Change code above this line */ }
         <h1>{this.state.text}</h1>
       </div>
